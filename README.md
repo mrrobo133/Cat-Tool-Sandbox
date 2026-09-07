@@ -71,3 +71,13 @@ This tool is developed **strictly for educational purposes, cybersecurity awaren
 3. **Explicit Consent Required:** Ensure you have explicit, written authorization from the target system owner before performing any security testing or running network simulations outside of an isolated local environment (`127.0.0.1`).
 
 By downloading, installing, or using this tool, you explicitly agree to take full personal responsibility for your actions and compliance with all applicable local, national, and international laws.
+```
+📂 Project Structure
+
+Cat-Tool-Sandbox/
+├── install.sh         # Automated setup and registration script
+├── cat.py             # Main Python core framework runner
+├── core/              # Core logic and captured data storage
+│   └── captured/      # Isolated logs (usernames.txt, passwords.txt)
+├── assets/            # Interface banners and screenshots
+└── README.md          # Project documentation
