@@ -62,3 +62,7 @@ chmod +x install.sh
 ```bash
 ./install.sh
 ```
+Run tool
+```bash
+python3 cat.py
+```
