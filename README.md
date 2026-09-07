@@ -60,8 +60,14 @@ Run tool
 ```bash
 python3 cat.py
 ```
-⚠️ Disclaimer
-​This tool is created strictly for educational purposes, cybersecurity awareness, and authorized local lab testing. The developer assumes no liability and is not responsible for any misuse or damage caused by this program. Ensure you have explicit permission before testing on any network or system.
-​<p align="center">
-<b>Made with 💛 for Ethical Hacking & Cybersecurity Education</b>
-</p>
+## ⚠️ DISCLAIMER
+
+**IMPORTANT:** Please read this carefully before using **CAT TOOL**.
+
+This tool is developed **strictly for educational purposes, cybersecurity awareness, and authorized local lab simulations**. It is designed to help developers, students, and security enthusiasts understand security mechanisms and local sandbox architectures.
+
+1. **No Malicious Intent:** This framework must not be used for any malicious activities, unauthorized phishing attacks, credential harvesting, or cybercrimes against any individuals, organizations, or systems.
+2. **User Responsibility:** The developer/author of **CAT TOOL** assumes **absolute zero responsibility** and is **not liable** for any misuse, illegal actions, or damages caused by any user or third party using this software. 
+3. **Explicit Consent Required:** Ensure you have explicit, written authorization from the target system owner before performing any security testing or running network simulations outside of an isolated local environment (`127.0.0.1`).
+
+By downloading, installing, or using this tool, you explicitly agree to take full personal responsibility for your actions and compliance with all applicable local, national, and international laws.
