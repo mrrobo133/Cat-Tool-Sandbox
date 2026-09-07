@@ -60,3 +60,8 @@ Run tool
 ```bash
 python3 cat.py
 ```
+⚠️ Disclaimer
+​This tool is created strictly for educational purposes, cybersecurity awareness, and authorized local lab testing. The developer assumes no liability and is not responsible for any misuse or damage caused by this program. Ensure you have explicit permission before testing on any network or system.
+​<p align="center">
+<b>Made with 💛 for Ethical Hacking & Cybersecurity Education</b>
+</p>
