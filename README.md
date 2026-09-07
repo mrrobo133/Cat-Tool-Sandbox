@@ -46,15 +46,19 @@ pkg update && pkg upgrade -y
 ```bash
 pkg install git python curl -y
 ```
+ gift ko clone karo 
 ```bash
-git clone 
+git clone https://github.com/mrrobo133/Cat-Tool-Sandbox.git
 ```
+ folder mein andar jao 
 ```bash
 cd Cat-Tool-Sandbox
 ```
+ permission access 
 ```bash
 chmod +x install.sh
 ```
+ download tool download 
 ```bash
 ./install.sh
 ```
