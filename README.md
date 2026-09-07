@@ -40,12 +40,6 @@
 
 Copy and paste the following commands directly into your **Termux** terminal to execute everything automatically:
 
-```bash
-pkg update && pkg upgrade -y
-```
-```bash
-pkg install git python curl -y
-```
  gift ko clone karo 
 ```bash
 git clone https://github.com/mrrobo133/Cat-Tool-Sandbox.git
